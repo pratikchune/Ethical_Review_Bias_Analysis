@@ -1,0 +1,33 @@
+ETHICAL REVIEW REPORT
+==================================================
+
+PROJECT: Hiring and Recruitment Bias Analysis
+
+1. DATASET INFORMATION
+Total Applicants: 500
+Total Columns: 9
+
+2. GENDER-WISE SELECTION ANALYSIS
+        Applicants  Selected  Rejected  Selection_Rate
+Gender                                                
+Female         241        99       142        0.410788
+Male           259       132       127        0.509653
+
+3. FAIRNESS METRICS
+Male Selection Rate: 50.97%
+Female Selection Rate: 41.08%
+Demographic Parity Difference: 0.0989
+Disparate Impact Ratio: 0.8060
+
+4. POTENTIAL BIAS ASSESSMENT
+No 80% rule warning detected
+
+5. RECOMMENDATIONS
+- Review recruitment selection criteria.
+- Monitor selection rates across groups.
+- Use fair and consistent evaluation methods.
+- Conduct regular fairness audits.
+- Investigate differences before drawing conclusions.
+
+6. CONCLUSION
+The analysis evaluates gender-wise hiring outcomes using fairness metrics. Further investigation is required to determine the reasons for any observed differences.

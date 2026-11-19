@@ -1,0 +1,6 @@
+Metric,Value
+Male Selection Rate,0.5097
+Female Selection Rate,0.4108
+Demographic Parity Difference,0.0989
+Disparate Impact Ratio,0.806
+Potential Bias Assessment,No 80% rule warning detected
